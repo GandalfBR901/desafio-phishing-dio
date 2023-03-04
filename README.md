@@ -29,4 +29,4 @@
 
 ### Resultados
 
-!(/home/gandalf_br901/git/desafio-phishing-dio/passwd.png)
+![resultados](/home/gandalf_br901/git/desafio-phishing-dio/passwd.png)
